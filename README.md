@@ -1,5 +1,9 @@
 # Duet3D-Rotating-Magnet-Filament-Monitor
-SolidWorks drfawing and STL file
+SolidWorks, STEP and STL file are included.
+
+I redrawn the hole V2 housing in Solidworks, I share the files if anybody needs it personally for modifications or a redesign. 
+Please don't reshare my file's, personal use only! ! !
+
 
 
 ! ! !Please read this before download or printen! ! !
@@ -15,4 +19,4 @@ There is a STL file included. If you want to print this product I strongly sugge
 
 IF you have problems with the filament giving you inconstant value while you monitor or measure the filament. The path of the filament doesn't have enough clearance. You need the drill to make sure the path for the filament is big enough. A hole of 2,1mm is more then enough, I suggest no bigger then 2,1mm! ! !
 
-If you have over or under-extrusion and the 3D printer is not stabile/precise and you are not willing to mount a 0,25mm nozzle I strongly suggest you download the STL files from the Duet3D webpage https://docs.duet3d.com/. These files are only for high quality prints or for easy modifications in Solidworks or as a STEP.
+If you have over or under-extrusion and the 3D printer is not stabile/precise and you are not willing to mount a 0,25mm nozzle I strongly suggest you download the STL files from the Duet3D webpage https://docs.duet3d.com/. These files are only for high quality prints or for easy modifications in Solidworks.
