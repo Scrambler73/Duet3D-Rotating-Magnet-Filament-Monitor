@@ -6,7 +6,7 @@ Please don't re share my file's, personal use only! ! !
 
 
 
-! ! !Please read this before download or printen! ! !
+! ! !Please read this before download or 3D printing! ! !
 
 I share the Solidworks files and STEP files for anyone who needs to modification the body of the Duet3D Rotating Magnet Filament Monitor
 
