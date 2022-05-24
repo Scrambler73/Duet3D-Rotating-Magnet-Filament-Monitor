@@ -1,7 +1,7 @@
 # Duet3D-Rotating-Magnet-Filament-Monitor
 SolidWorks, STEP and STL file are included.
 
-I redrawn the hole V2 housing in Solidworks, I share the files if anybody needs it personally for modifications or a redesign. 
+I redrawn the whole V2 housing in Solidworks, I share the files if anybody needs it personally for modifications or a redesign. 
 Please don't reshare my file's, personal use only! ! !
 
 
